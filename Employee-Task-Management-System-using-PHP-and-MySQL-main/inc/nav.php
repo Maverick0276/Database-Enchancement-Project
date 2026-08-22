@@ -68,6 +68,24 @@
 						<span>All Tasks</span>
 					</a>
 				</li>
+
+
+
+
+
+
+             <li>
+				<a href="employee-tasks.php">
+					<i class="fa fa-list" aria-hidden="true"></i>
+					<span>Tasks Amount</span>
+				</a>
+			</li> 
+
+
+
+
+			
+
 				<li>
 					<a href="logout.php">
 						<i class="fa fa-sign-out" aria-hidden="true"></i>
